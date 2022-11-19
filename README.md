@@ -1,4 +1,6 @@
+<a href="https://www.mrfake.name/ghpromo" target="_blank"><img src="https://mrfake.name/ghpromo/promo.png" height="250"></a>
 # Classless-Bulma
+## This is outdated, an no longer uses the latest of Bulma
 Bulma without the classes! Ready to plop into your HTML file!
 ## Usage
 Check out the https://bulma.io/ docs. Just bulma without the classes.
